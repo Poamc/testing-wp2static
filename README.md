@@ -1,0 +1,1 @@
+# testing-wp2static
